@@ -15,7 +15,7 @@ There is a data file [datasets_828921_1417131_Space_Corrected.csv] obtained from
 There is a notbook availible here to showcase work related to the above questions. 
 There is an additional .py file that contains all code including model specification. 
 
-# How to interact with this project
+# How to Interact with this Project
 This project was created for a Udacity Data Science course and is intended to showcase some very simple python data manipulation and data analysis. Please look at the blog, notbook and .py file. 
 
 # Licensing, Authors, Acknowledgements

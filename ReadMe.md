@@ -13,7 +13,7 @@ For this project, I was curious about space flight launch successes to ask:
 # File Descriptions
 There is a data file [datasets_828921_1417131_Space_Corrected.csv] obtained from https://www.kaggle.com/agirlcoding/all-space-missions-from-1957. 
 There is a notbook availible here to showcase work related to the above questions. 
-There is an additional .py file that contains all code including model specification. 
+There is a folder 'Misc_files' that contains images used in Medium.com blog post, as well as a .py file used for data analyses.
 
 # How to Interact with this Project
 This project was created for a Udacity Data Science course and is intended to showcase some very simple python data manipulation and data analysis. Please look at the blog, notbook and .py file. 

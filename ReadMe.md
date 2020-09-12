@@ -5,9 +5,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 # Project Motivation
 For this project, I was curious about space flight launch successes to ask: 
-    1: Which company has the highest success rate over the past ~ 50 years?
-    2: Have success rates improved through time?
-    3: Has the day of the week or the week of the year of launch changed over the past ~ 50 years?
+    1: Has success rate improved through time?
+    2: What companies have the highest success rates?
+    3: Do companies that spend more have higher success rates?
     4: Does launch success improve with experience?
 
 # File Descriptions

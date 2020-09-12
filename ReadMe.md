@@ -16,7 +16,9 @@ There is a notbook availible here to showcase work related to the above question
 There is a folder 'Misc_files' that contains images used in Medium.com blog post, as well as a .py file used for data analyses.
 
 # How to Interact with this Project
-This project was created for a Udacity Data Science course and is intended to showcase some very simple python data manipulation and data analysis. Please look at the blog, notbook and .py file. 
+This project was created for a Udacity Data Science course and is intended to showcase some very simple python data manipulation and data analysis. Please look at the blog, notbook and .py file for details, or read the blog post on medium.com here:
+https://medium.com/@turtlewheels/not-all-rocket-launches-are-successful-ad2634d4cf94
+
 
 # Licensing, Authors, Acknowledgements
 Please give any credit to Agirlcoding at Kaggle for compiling data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!

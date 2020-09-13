@@ -4,11 +4,17 @@ Table of Contents
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 # Project Motivation
-For this project, I was curious about space flight launch successes to ask: 
-    1: Has success rate improved through time?
-    2: What companies have the highest success rates?
-    3: Do companies that spend more have higher success rates?
-    4: Does launch success improve with experience?
+For this project, I will use the CRISP-DM process to explore and ask questions of a free dataset about space rocket launch success.  
+
+Business Understanding: Rockets appeal to our inner child curiosity, and a set of simple analyses about companies that develop and launch rockets may provide insight about determinants of launch success.
+
+Data Understanding: The dataset used in these analyses contains information about each known space flight launch dating back to 1957. Each record represents a single launch or launch attempt, with summary information such as date, location, company name, rocket price, and whether or not the launch was a success.
+
+Prepare Data: We walk through several steps to create an appropriate categorical response variable, as well as date formating and aggregation. 
+
+Data Modeling: We use a simple Machine Learning linear regression method to predict launch success as a function of 1 or more predictor variables. Here, we use the sklearn library in Python.
+
+Evaluate the Result: We will briefly evaluate the results (descriptive and inferential statistics) and comment on the utlility of these results for understanding space rocket launch success. 
 
 # File Descriptions
 There is a data file [datasets_828921_1417131_Space_Corrected.csv] obtained from https://www.kaggle.com/agirlcoding/all-space-missions-from-1957. 
